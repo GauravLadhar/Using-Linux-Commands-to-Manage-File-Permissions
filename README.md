@@ -10,4 +10,7 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 Using Linux commands in the Bash shell, I modified and applied permissions based on organizational requirements.
 
-Tools Used
+<ins>Tools Used<ins>
+- Linux
+- Bash
+- Command Line Interface (CLI)
