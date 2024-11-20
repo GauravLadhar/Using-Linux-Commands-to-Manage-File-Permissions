@@ -1,4 +1,4 @@
-# Using-Linux-Commands-to-Manage-File-Permissions
+# Using Linux Commands to Manage File Permissions
 
 Given the following scenario:
 
@@ -9,3 +9,5 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 
 Using Linux commands in the Bash shell, I modified and applied permissions based on organizational requirements.
+
+Tools Used
